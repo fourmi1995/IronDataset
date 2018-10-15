@@ -30,7 +30,6 @@ class ImgPre:
     def get_savename(self, operate,number):
         """
         :param export_path_base: 图像输出路径
-        :param operate: 脸部区域名
 
         :return: 返回图像存储名
         """
